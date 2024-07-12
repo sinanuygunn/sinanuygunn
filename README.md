@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sinanuygunn
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning react
 
 <!---
 sinanuygunn/sinanuygunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
