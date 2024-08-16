@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @sinanuygunn
+# 👋 Hi, I'm Sinan Uygun!
 
-<!---
-sinanuygunn/sinanuygunn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a hobbyist in Python programming, web development, and graphic design. I love working on creative projects in my free time.
+
+- **Python**: I enjoy writing Python scripts for personal projects.
+- **Web Development**: I create simple and responsive web pages using HTML, CSS, and JavaScript, and usually dive into frameworks like React.
+- **Graphic Design**: I design graphics and visuals using tools like Photoshop, Illustrator and sometimes Blender.
